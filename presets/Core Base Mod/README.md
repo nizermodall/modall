@@ -1,16 +1,13 @@
-# 🎮 Core Base Mod
+# 🎮 [Mod List 01]Core Base Mod
 **Kategori:** `🔧  Utility & Bug Fix Framework` | **Kreator:** `Nizer Create` | **Game:** `Skyrim Special Edition`
 
-> This is a list of essential foundation mods that you must install first before adding any gameplay, graphics, or character mods to Skyrim.
-
-The main purpose of this category is to patch base-game bugs, boost engine stability, and provide the behind-the-scenes frameworks required by other advanced mods. Without these core files in place, your game will be extremely vulnerable to crashes, freezes, and corrupted save files as you build out your mod list.
+> {"id": "This is a list of essential foundation mods that you must install first before adding any gameplay, graphics, or character mods to Skyrim.\n\nThe main purpose of this category is to patch base-game bugs, boost engine stability, and provide the behind-the-scenes frameworks required by other advanced mods. Without these core files in place, your game will be extremely vulnerable to crashes, freezes, and corrupted save files as you build out your mod list.", "en": "This is a list of essential foundation mods that you must install first before adding any gameplay, graphics, or character mods to Skyrim.\n\nThe main purpose of this category is to patch base-game bugs, boost engine stability, and provide the behind-the-scenes frameworks required by other advanced mods. Without these core files in place, your game will be extremely vulnerable to crashes, freezes, and corrupted save files as you build out your mod list."}
 
 ## 🖼️ Galeri Pratinjau (Screenshots)
 
 ![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Core%20Base%20Mod/previews/preview_01.webp)
 ![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Core%20Base%20Mod/previews/preview_02.webp)
 ![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Core%20Base%20Mod/previews/preview_03.webp)
-![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Core%20Base%20Mod/poster_9x16.webp)
 
 ## 📋 Daftar Mod & Link Download Nexus
 
