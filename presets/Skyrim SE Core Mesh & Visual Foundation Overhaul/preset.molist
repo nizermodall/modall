@@ -1,6 +1,6 @@
 {
   "format_version": "1.0",
-  "name": "[Mod List 2] Core Mesh & Visual Foundation Overhaul",
+  "name": "[Mod List 02] Core Mesh & Visual Foundation Overhaul",
   "description": "{\"id\": \"Kompilasi ini bukan untuk membuat game terlihat mewah secara instan, melainkan membereskan kebobrokan struktur 3D bawaan game tahun 2011. Fokus utamanya adalah merombak model objek (static meshes), menambah jumlah poligon pada benda yang kaku, memuluskan sambungan jalanan, serta memberikan efek depth fisik pada bebatuan lanskap.\\n\\nTanpa membenahi geometri dasar ini terlebih dahulu, memasang mod tekstur 4K atau ENB paling berat sekalipun hanya akan memoles objek yang bentuk dasarnya sudah cacat. Ini adalah base layer wajib yang harus berada di posisi atas load order sebelum kamu menyentuh mod perombak visual lainnya.\", \"en\": \"This compilation is not intended to make the game look luxurious instantly, but rather to clean up the 3D structure that was built into the 2011 game. The main focus is to overhaul the object model (static meshes), increase the number of polygons on rigid objects, smooth out road joints, and provide a physical depth effect on landscape rocks.\\n\\nWithout fixing this basic geometry first, installing even the heaviest 4K or ENB texture mod will simply polish an object whose basic shape is already flawed. This is a mandatory base layer that must be at the top of the load order before you touch other visual modification mods.\"}",
   "game": "SkyrimSE",
   "creator": "Nizer Create",
