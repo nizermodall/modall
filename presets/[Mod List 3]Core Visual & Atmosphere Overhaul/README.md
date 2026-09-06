@@ -1,4 +1,4 @@
-# 🎮 [Mod List 3]Core Visual & Atmosphere Overhaul
+# 🎮 [Mod List 03]Core Visual & Atmosphere Overhaul
 **Kategori:** `🔧  Utility & Bug Fix Framework` | **Kreator:** `Nizer Create` | **Game:** `Skyrim Special Edition`
 
 > {"id": "Koleksi mod pilihan ini dirancang untuk mendongkrak kualitas visual Skyrim Special Edition secara signifikan. Menggabungkan tekstur lanskap dan arsitektur beresolusi tinggi, teknologi Physically Based Rendering (PBR) untuk efek material realistis, serta penyesuaian pencahayaan malam yang alami. Kombinasi ini menghadirkan perombakan grafis yang masif dan tetap menjaga estetika asli (lore-friendly) game.", "en": "This selected mod collection is designed to significantly boost the visual quality of Skyrim Special Edition. Combines high-resolution landscape and architectural textures, Physically Based Rendering (PBR) technology for realistic material effects, as well as natural night lighting adjustments. This combination provides a massive graphical overhaul while maintaining the game's original (lore-friendly) aesthetic."}
