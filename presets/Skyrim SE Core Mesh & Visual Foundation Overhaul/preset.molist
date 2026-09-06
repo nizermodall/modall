@@ -36,14 +36,17 @@
       "filename": null,
       "original_separator": "Category 2 Base Meshes & Fixes_separator",
       "is_dependency": false,
-      "custom_url": "https://www.nexusmods.com/skyrimspecialedition/mods/659",
-      "description": null
+      "custom_url": "https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files&file_id=59069",
+      "description": {
+        "id": "Mod karya Brumbek untuk Skyrim Special Edition yang merombak dan meningkatkan kualitas visual ribuan model objek 3D (static meshes) bawaan gim—seperti bangunan, perabotan, tali, hingga item kecil—agar memiliki poligon lebih halus, tekstur lebih presisi, dan tampilan lingkungan yang jauh lebih realistis.",
+        "en": "Brumbek's mod for Skyrim Special Edition overhauls and improves the visual quality of thousands of the game's built-in 3D object models (static meshes)—such as buildings, furniture, ropes, and even small items—to have smoother polygons, more precise textures, and a much more realistic appearance of the environment."
+      }
     },
     {
       "name": "Assorted Mesh Fixes",
       "enabled": true,
       "is_separator": false,
-      "nexus_id": 0,
+      "nexus_id": 32117,
       "file_id": null,
       "version": "d2026.7.6",
       "game": "SkyrimSE",
@@ -52,14 +55,17 @@
       "filename": null,
       "original_separator": "Category 2 Base Meshes & Fixes_separator",
       "is_dependency": false,
-      "custom_url": null,
-      "description": null
+      "custom_url": "https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files&file_id=768960",
+      "description": {
+        "id": "Mod karya wankingSkeever untuk Skyrim Special Edition yang memperbaiki berbagai cacat teknis pada model objek 3D (meshes) bawaan gim—seperti celah visual (gaps), kesalahan pemetaan UV, tekstur yang buram/terdistorsi, hingga bug pencahayaan—tanpa mengubah gaya visual asli bawaan gim.",
+        "en": "WankingSkeever's mod for Skyrim Special Edition fixes various technical defects in the game's built-in 3D object models (meshes)—such as visual gaps, UV mapping errors, blurred/distorted textures, and even lighting bugs—without changing the game's original visual style."
+      }
     },
     {
       "name": "High Poly Project",
       "enabled": true,
       "is_separator": false,
-      "nexus_id": 0,
+      "nexus_id": 12029,
       "file_id": null,
       "version": "5.3.0.0",
       "game": "SkyrimSE",
@@ -68,8 +74,11 @@
       "filename": null,
       "original_separator": "Category 2 Base Meshes & Fixes_separator",
       "is_dependency": false,
-      "custom_url": null,
-      "description": null
+      "custom_url": "https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420",
+      "description": {
+        "id": "Mod karya LucidAPs untuk Skyrim Special Edition yang meningkatkan jumlah poligon (polygon count) secara signifikan pada berbagai objek 3D bawaan gim—seperti bahan makanan, perabotan, tengkorak, tanaman, hingga artefak kecil—sehingga objek memiliki bentuk yang jauh lebih halus, bulat mendetail, dan realistis dibanding versi asli (vanilla).",
+        "en": "A mod by LucidAPs for Skyrim Special Edition that significantly increases the number of polygons (polygon count) on various 3D objects built into the game—such as foodstuffs, furniture, skulls, plants, and even small artifacts—so that objects have much smoother, rounder, more detailed and realistic shapes than the original (vanilla) version."
+      }
     },
     {
       "name": "ERM - Enhanced Rocks and Mountains",
@@ -85,10 +94,7 @@
       "original_separator": "Category 2 Base Meshes & Fixes_separator",
       "is_dependency": false,
       "custom_url": "https://www.nexusmods.com/skyrimspecialedition/mods/121336?tab=files&file_id=746642",
-      "description": {
-        "id": "Mod karya Brumbek untuk Skyrim Special Edition yang merombak dan meningkatkan kualitas visual ribuan model objek 3D (static meshes) bawaan gim—seperti bangunan, perabotan, tali, hingga item kecil—agar memiliki poligon lebih halus, tekstur lebih presisi, dan tampilan lingkungan yang jauh lebih realistis.",
-        "en": "Brumbek's mod for Skyrim Special Edition overhauls and improves the visual quality of thousands of the game's built-in 3D object models (static meshes)—such as buildings, furniture, ropes, and even small items—to have smoother polygons, more precise textures, and a much more realistic appearance of the environment."
-      }
+      "description": "{'en': \"Brumbek's mod for Skyrim Special Edition overhauls and improves the visual quality of thousands of the game's built-in 3D object models (static meshes)—such as buildings, furniture, ropes, and even small items—to have smoother polygons, more precise textures, and a much more realistic appearance of the environment.\", 'id': 'Mod karya Brumbek untuk Skyrim Special Edition yang merombak dan meningkatkan kualitas visual ribuan model objek 3D (static meshes) bawaan gim—seperti bangunan, perabotan, tali, hingga item kecil—agar memiliki poligon lebih halus, tekstur lebih presisi, dan tampilan lingkungan yang jauh lebih realistis.'}"
     },
     {
       "name": "ERM - Textures",
@@ -104,14 +110,11 @@
       "original_separator": "Category 2 Base Meshes & Fixes_separator",
       "is_dependency": false,
       "custom_url": "https://www.nexusmods.com/skyrimspecialedition/mods/121336?tab=files&file_id=657038",
-      "description": {
-        "id": "Mod karya Brumbek untuk Skyrim Special Edition yang merombak dan meningkatkan kualitas visual ribuan model objek 3D (static meshes) bawaan gim—seperti bangunan, perabotan, tali, hingga item kecil—agar memiliki poligon lebih halus, tekstur lebih presisi, dan tampilan lingkungan yang jauh lebih realistis.",
-        "en": "Brumbek's mod for Skyrim Special Edition overhauls and improves the visual quality of thousands of the game's built-in 3D object models (static meshes)—such as buildings, furniture, ropes, and even small items—to have smoother polygons, more precise textures, and a much more realistic appearance of the environment."
-      }
+      "description": "{'en': \"Brumbek's mod for Skyrim Special Edition overhauls and improves the visual quality of thousands of the game's built-in 3D object models (static meshes)—such as buildings, furniture, ropes, and even small items—to have smoother polygons, more precise textures, and a much more realistic appearance of the environment.\", 'id': 'Mod karya Brumbek untuk Skyrim Special Edition yang merombak dan meningkatkan kualitas visual ribuan model objek 3D (static meshes) bawaan gim—seperti bangunan, perabotan, tali, hingga item kecil—agar memiliki poligon lebih halus, tekstur lebih presisi, dan tampilan lingkungan yang jauh lebih realistis.'}"
     }
   ],
-  "category": "🔧  Utility & Bug Fix Framework",
-  "tagline": "",
+  "category": "⚔️  Combat & Gameplay",
+  "tagline": "Fondasi Geometri Skyrim: Perbaiki Cacat 3D Sebelum Memoles Tekstur.",
   "cover_9x16": "cover_Skyrim SE Core Mesh & Visual Foundation Overhaul_9x16.webp",
   "cover_16x9": "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_01.webp",
   "previews": [
@@ -120,8 +123,7 @@
     "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_03.webp",
     "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_04.webp",
     "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_05.webp",
-    "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_06.webp",
-    "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_07.webp"
+    "prev_Skyrim SE Core Mesh & Visual Foundation Overhaul_06.webp"
   ],
   "source_separators": [
     "Category 2 Base Meshes & Fixes_separator"
