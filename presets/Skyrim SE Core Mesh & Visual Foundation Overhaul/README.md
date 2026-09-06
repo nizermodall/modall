@@ -10,6 +10,8 @@
 ![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Skyrim%20SE%20Core%20Mesh%20%26%20Visual%20Foundation%20Overhaul/previews/preview_03.webp)
 ![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Skyrim%20SE%20Core%20Mesh%20%26%20Visual%20Foundation%20Overhaul/previews/preview_04.webp)
 ![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Skyrim%20SE%20Core%20Mesh%20%26%20Visual%20Foundation%20Overhaul/previews/preview_05.webp)
+![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Skyrim%20SE%20Core%20Mesh%20%26%20Visual%20Foundation%20Overhaul/previews/preview_06.webp)
+![Preview Screenshot](https://raw.githubusercontent.com/nizermodall/modall/main/presets/Skyrim%20SE%20Core%20Mesh%20%26%20Visual%20Foundation%20Overhaul/previews/preview_07.webp)
 
 ## 📋 Daftar Mod & Link Download Nexus
 
